@@ -1,6 +1,6 @@
 <template lang="jade">
 .container
-  a(href="https://github.com/vue-comps/vue-parallax/blob/master/dev/basic.vue") source
+  a(href="https://github.com/vue-comps/vue-close/blob/master/dev/basic.vue") source
   close
   close(disabled) disabled
   span {{state}}
