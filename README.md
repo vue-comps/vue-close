@@ -1,3 +1,4 @@
+# DEPRECATED
 # vue-close
 
 A button which dispatches a close event.
